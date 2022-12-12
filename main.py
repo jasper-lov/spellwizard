@@ -58,7 +58,7 @@ def main():
     word_list = get_wordlist_from_pdf("CS375f22_proj4_DynamicProgramming.pdf")
 
     # Parses dictionary
-    dictionary = get_dictionary("wordlist/en_US-large.txt")[:100]
+    dictionary = get_dictionary("wordlist/en_US-large.txt")
     #print(len(dictionary))
     print('started')
     # Runs the spell checker on the pdf

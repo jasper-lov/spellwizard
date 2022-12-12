@@ -1,8542 +1,3446 @@
 {
     "Analysis": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "of": [
-        "A",
-        "AA",
-        "AB",
-        "AC",
-        "AD"
+        "analysis",
+        "analyses",
+        "analysts",
+        "dialysis",
+        "Analects"
     ],
     "AlgorithmsCS": [
-        "AWACS",
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC"
+        "algorithms",
+        "algorithm",
+        "algorithm's",
+        "algorithmic",
+        "algorisms"
     ],
     "Fall": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Ball",
+        "Falla",
+        "Gall",
+        "Hall",
+        "Wall"
     ],
     "Project": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "project",
+        "projects",
+        "protect",
+        "reject",
+        "traject"
     ],
     "DueBY": [
-        "AB",
-        "ABA",
-        "ABC",
-        "ABD",
-        "ABM"
-    ],
-    "pm": [
-        "A",
-        "AA",
-        "AB",
-        "AC",
-        "AD"
+        "Duero",
+        "Auer",
+        "DOB",
+        "Deaf",
+        "Dean"
     ],
     "onMonday": [
-        "AAM",
-        "ABM",
-        "ABM's",
-        "ABMs",
-        "ADM"
-    ],
-    "Dec": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
+        "Monday",
+        "noonday",
+        "Mondays",
+        "Ancona",
+        "Antonia"
     ],
     "Edit": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Edith",
+        "adit",
+        "dit",
+        "edit",
+        "Brit"
     ],
     "Distance": [
-        "A's",
-        "AD's",
-        "AIs",
-        "A",
-        "AA"
-    ],
-    "and": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
+        "distance",
+        "distanced",
+        "distances",
+        "instance",
+        "pittance"
     ],
     "Dynamic": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "dynamic",
+        "dynamics",
+        "Adamic",
+        "Cynic",
+        "Denali"
     ],
     "ProgrammingIn": [
-        "AFAIK",
-        "AI",
-        "AIs",
-        "ANSI",
-        "ANSIs"
-    ],
-    "this": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABCs",
-        "ABMs"
-    ],
-    "assignment": [
-        "A's",
-        "AIs",
-        "A",
-        "AA",
-        "AA's"
+        "programming",
+        "programming's",
+        "programmings",
+        "programing",
+        "deprogramming"
     ],
     "youll": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "work": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "in": [
-        "A",
-        "AA",
-        "AB",
-        "AC",
-        "AD"
-    ],
-    "teams": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "up": [
-        "A",
-        "AA",
-        "AB",
-        "AC",
-        "AD"
-    ],
-    "to": [
-        "A",
-        "AA",
-        "AB",
-        "AC",
-        "AD"
-    ],
-    "four": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "people": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "implement": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "a": [
-        "A",
-        "AA",
-        "AB",
-        "AC",
-        "AD"
+        "you'll",
+        "Boult",
+        "Bull",
+        "Gould",
+        "Hull"
     ],
     "dynamicprogramming": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "algorithm": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "from": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "recursive": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "definition": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "with": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "applications": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "natural": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "deprogramming",
+        "multiprogramming",
+        "programming",
+        "reprogramming",
+        "diagramming"
     ],
     "languageprocessing": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "multiprocessing",
+        "reprocessing",
+        "teleprocessing",
+        "aggressing",
+        "processing"
     ],
     "NLP": [
+        "LP",
+        "NL",
+        "NP",
         "ADP",
-        "AL",
-        "AMP",
-        "AP",
-        "ATP"
+        "AL"
     ],
     "The": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
-    ],
-    "goals": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "project": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Che",
+        "Te",
+        "Th",
+        "Thea",
+        "Thu"
     ],
     "areto": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "give": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "you": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
-    ],
-    "practice": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "converting": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "into": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "an": [
-        "A",
-        "AA",
-        "AB",
-        "AC",
-        "AD"
-    ],
-    "iterative": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "dynamic": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "programming": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Pareto",
+        "arete",
+        "Aneto",
+        "Bret",
+        "Breton"
     ],
     "algorithmto": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "implementing": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "both": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "algorithm",
+        "algorithm's",
+        "algorithmic",
+        "algorithms",
+        "algorism"
     ],
     "programmingmethodsto": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "introduce": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "edit": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "distance": [
-        "A's",
-        "AIs",
-        "A",
-        "AA",
-        "AA's"
-    ],
-    "as": [
-        "A",
-        "A's",
-        "AA",
-        "AB",
-        "AC"
-    ],
-    "concept": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "for": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
+        "programming's",
+        "programmings",
+        "programming",
+        "procrastinations",
+        "procrastinators"
     ],
     "applicationsto": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "presenting": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABCs",
-        "ABMs"
-    ],
-    "your": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "algorithms": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "ideas": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "written": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "document": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "applications",
+        "application",
+        "application's",
+        "applicators",
+        "duplications"
     ],
     "andshort": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABCs",
-        "ABMs"
+        "Wandsworth",
+        "adsorb",
+        "anaphora",
+        "anchor",
+        "anchors"
     ],
     "videorecorded": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "demo": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "prerecorded",
+        "rerecorded",
+        "recorded",
+        "underscored",
+        "unrecorded"
     ],
     "workto": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "working": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "other": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "students": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "worktop",
+        "Porto",
+        "work",
+        "work's",
+        "worked"
     ],
     "teamA": [
-        "A",
-        "AA",
-        "AAA",
-        "ABA",
-        "AMA"
-    ],
-    "few": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
+        "team",
+        "teams",
+        "beam",
+        "beams",
+        "beamy"
     ],
     "Important": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "important",
+        "importance",
+        "importantly",
+        "importing",
+        "importune"
     ],
     "Notes": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "about": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Notus",
+        "Noyes",
+        "cotes",
+        "dotes",
+        "motes"
     ],
     "assignmentAll": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "implementation": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "must": [
-        "A's",
-        "AIs",
-        "A",
-        "AA",
-        "AA's"
-    ],
-    "be": [
-        "A",
-        "AA",
-        "AB",
-        "AC",
-        "AD"
-    ],
-    "Python": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "or": [
-        "A",
-        "AA",
-        "AB",
-        "AC",
-        "AD"
-    ],
-    "Java": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "assignment",
+        "assignment's",
+        "assignments",
+        "alignment",
+        "alignment's"
     ],
     "Please": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "lease",
+        "please",
+        "Peace",
+        "Peale",
+        "Place"
     ],
     "pickone": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "those": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABCs",
-        "ABMs"
-    ],
-    "languages": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "use": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
-    ],
-    "it": [
-        "A",
-        "AA",
-        "AB",
-        "AC",
-        "AD"
-    ],
-    "all": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
+        "picking",
+        "pickle",
+        "Alcyone",
+        "Dickens",
+        "Dickson"
     ],
     "codingRestriction": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "on": [
-        "A",
-        "AA",
-        "AB",
-        "AC",
-        "AD"
-    ],
-    "resources": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "constriction",
+        "constrictions",
+        "construction",
+        "concentration",
+        "congestion"
     ],
     "Do": [
-        "A",
-        "AA",
-        "AB",
-        "AC",
-        "AD"
-    ],
-    "not": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
-    ],
-    "any": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
-    ],
-    "outside": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABCs",
-        "ABMs"
+        "Co",
+        "D",
+        "DA",
+        "DC",
+        "DD"
     ],
     "aboutedit": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "part": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "because": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "most": [
-        "A's",
-        "AIs",
-        "A",
-        "AA",
-        "AA's"
-    ],
-    "whats": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "available": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "aborted",
+        "abated",
+        "abduced",
+        "abducent",
+        "abducted"
     ],
     "containsinformation": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "that": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "are": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
-    ],
-    "expected": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "do": [
-        "A",
-        "AA",
-        "AB",
-        "AC",
-        "AD"
-    ],
-    "yourselves": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "disinformation",
+        "misinformation",
+        "conformation",
+        "containerization",
+        "contamination"
     ],
     "oflearning": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "learning",
+        "relearning",
+        "unlearning",
+        "cleaning",
+        "clearing"
     ],
     "programmingIf": [
-        "AFAIK",
-        "AI",
-        "AIs",
-        "ANSI",
-        "ANSIs"
-    ],
-    "have": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "questions": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "please": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "let": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
-    ],
-    "me": [
-        "A",
-        "AA",
-        "AB",
-        "AC",
-        "AD"
-    ],
-    "know": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "programming",
+        "programming's",
+        "programmings",
+        "programing",
+        "deprogramming"
     ],
     "If": [
-        "A",
-        "AA",
-        "AB",
-        "AC",
-        "AD"
+        "Af",
+        "Cf",
+        "Hf",
+        "I",
+        "IA"
     ],
     "youre": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "looking": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "yore",
+        "you're",
+        "your",
+        "yours",
+        "Apure"
     ],
     "foroutside": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "regarding": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "particular": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "ask": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
-    ],
-    "I": [
-        "A",
-        "AI",
-        "AA",
-        "AB",
-        "AC"
+        "footsie",
+        "foreside",
+        "outside",
+        "broadside",
+        "fireside"
     ],
     "willtry": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "find": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "something": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "help": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "does": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABCs",
-        "ABMs"
-    ],
-    "affect": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "ability": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Hillary",
+        "pillory",
+        "willowy",
+        "willy",
+        "wintry"
     ],
     "tohave": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "completely": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "own": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
+        "Mohave",
+        "Mohaves",
+        "Mojave",
+        "Soave",
+        "Zouave"
     ],
     "workYou": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "welcome": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "general": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "It": [
-        "A",
-        "AA",
-        "AB",
-        "AC",
-        "AD"
-    ],
-    "is": [
-        "A",
-        "A's",
-        "AA",
-        "AB",
-        "AC"
-    ],
-    "only": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "workout",
+        "worktop",
+        "work",
+        "work's",
+        "workbag"
     ],
     "distancespecific": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "restricted": [
-        "A's",
-        "AIs",
-        "A",
-        "AA",
-        "AA's"
+        "conspecific",
+        "disrespectful",
+        "distances",
+        "nonspecific",
+        "transpacific"
     ],
     "thisassignment": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "As": [
-        "A",
-        "A's",
-        "AA",
-        "AB",
-        "AC"
-    ],
-    "always": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "if": [
-        "A",
-        "AA",
-        "AB",
-        "AC",
-        "AD"
+        "assignment",
+        "misalignment",
+        "reassignment",
+        "assignments",
+        "reassignments"
     ],
     "AssignmentHere": [
-        "A's",
-        "ACTH",
-        "ACTH's",
-        "AHQ",
-        "AIs"
-    ],
-    "the": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
-    ],
-    "parts": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "assignment",
+        "assignment's",
+        "assignments",
+        "alignment",
+        "alignment's"
     ],
     "assignmentEdit": [
-        "A's",
-        "AEC",
-        "AEC's",
-        "AIs",
-        "A"
+        "assignment",
+        "assignment's",
+        "assignments",
+        "alignment",
+        "alignment's"
     ],
     "Your": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "team": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "will": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "given": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "dour",
+        "four",
+        "hour",
+        "lour",
+        "our"
     ],
     "youwill": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "create": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "you'll",
+        "Boswell",
+        "Bowell",
+        "Cowell",
+        "Goodwill"
     ],
     "topdown": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "godown",
+        "hoedown",
+        "lowdown",
+        "Bordon",
+        "Gordon"
     ],
     "andbottomup": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "compute": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "bottom",
+        "bottom's",
+        "bottomed",
+        "bottomry",
+        "bottoms"
     ],
     "distanceSpelling": [
-        "A's",
-        "ABS",
-        "AIDS",
-        "AIDS's",
-        "AIs"
+        "dispelling",
+        "distancing",
+        "cancelling",
+        "disagreeing",
+        "disappearing"
     ],
     "Correction": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "calculations": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "correction",
+        "corrections",
+        "Correggio",
+        "Creation",
+        "bolection"
     ],
     "createand": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "created",
+        "cheated",
+        "coextend",
+        "crated",
+        "cratered"
     ],
     "generalpurpose": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "spelling": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "checker": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "demonstrate": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "its": [
-        "A's",
-        "AIs",
-        "A",
-        "AA",
-        "AA's"
+        "generalship's",
+        "general's",
+        "generalissimos",
+        "generalist",
+        "generalist's"
     ],
     "effectivenessImprovements": [
-        "AI's",
-        "AIDS's",
-        "AIs",
-        "ANSIs",
-        "ASCII's"
-    ],
-    "specialized": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "spell": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "effectiveness's",
+        "effectiveness",
+        "affectiveness",
+        "defectiveness's",
+        "effectualnesses"
     ],
     "improvedperformance": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "nonperformance",
+        "improvidence",
+        "performance",
+        "imperforate",
+        "nonperformance's"
     ],
     "CSspecific": [
-        "A's",
-        "AC's",
-        "AIs",
-        "AS",
-        "ASAP"
-    ],
-    "documents": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "come": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "at": [
-        "A",
-        "AA",
-        "AB",
-        "AC",
-        "AD"
+        "specific",
+        "unspecific",
+        "conspecific",
+        "nonspecific",
+        "specifics"
     ],
     "leastone": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABCs",
-        "ABMs"
-    ],
-    "way": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
-    ],
-    "improve": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "upon": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "original": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Redstone",
+        "gemstone",
+        "headstone",
+        "keystone",
+        "lactone"
     ],
     "checkerPresentation": [
-        "ADP's",
-        "AMP's",
-        "AP's",
-        "APC's",
-        "ATP's"
+        "misrepresentation",
+        "representation",
+        "experimentation",
+        "misrepresentations",
+        "presentation"
     ],
     "Work": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Bork",
+        "Cork",
+        "York",
+        "cork",
+        "dork"
     ],
     "Along": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "writeup": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "along",
+        "flong",
+        "klong",
+        "long",
+        "Alan"
     ],
     "willrecord": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "short": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "video": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "emphasizes": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "features": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "millepore",
+        "millisecond",
+        "misericord",
+        "prerecord",
+        "record"
     ],
     "programmingimplementation": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "improvements": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "implementation",
+        "implementations",
+        "proadministration",
+        "fragmentation",
+        "implementation's"
     ],
     "DistanceSeveral": [
-        "A's",
-        "ABS",
-        "AD's",
-        "AIDS",
-        "AIDS's"
-    ],
-    "language": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "processing": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "computational": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "biology": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "rely": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "misconceiver",
+        "Canaveral",
+        "ancestral",
+        "distance",
+        "distance's"
     ],
     "onmetrics": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "similarity": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "between": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "words": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "genome": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "sequences": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "etc": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
+        "metrics",
+        "Demetrius",
+        "biometrics",
+        "cosmetics",
+        "dimetric"
     ],
     "One": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
+        "Oe",
+        "On",
+        "Ono",
+        "Ont",
+        "Ore"
     ],
     "commonway": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "measure": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABCs",
-        "ABMs"
-    ],
-    "word": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "by": [
-        "A",
-        "AA",
-        "AB",
-        "AC",
-        "AD"
-    ],
-    "how": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
-    ],
-    "much": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "takes": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "commonly",
+        "commonweal",
+        "colorway",
+        "commendam",
+        "commensal"
     ],
     "totransform": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "string": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "transform",
+        "transforms",
+        "autotransformer",
+        "stratiform",
+        "terraform"
     ],
     "Sinto": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "T": [
-        "A",
-        "AA",
-        "AB",
-        "AC",
-        "ACT"
+        "Shinto",
+        "into",
+        "pinto",
+        "Dino",
+        "Gino"
     ],
     "Definition": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "definition",
+        "definitions",
+        "definition's",
+        "definitional",
+        "definitive"
     ],
     "ExamplesFor": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "well": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "consider": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABCs",
-        "ABMs"
-    ],
-    "three": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "possible": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABCs",
-        "ABMs"
-    ],
-    "operations": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "transform": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "one": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
+        "examples",
+        "ampler",
+        "amplest",
+        "compressor",
+        "example"
     ],
     "intoanotherReplace": [
-        "APR",
-        "AR",
-        "ARC",
-        "ASSR",
-        "A"
+        "incoherence",
+        "interlace",
+        "interpellate",
+        "interrelate",
+        "interspace"
     ],
     "Replace": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "character": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "another": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "replace",
+        "Laplace",
+        "deplane",
+        "emplace",
+        "enlace"
     ],
     "For": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
-    ],
-    "example": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "cat": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
-    ],
-    "transformed": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "car": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
+        "Cor",
+        "Ford",
+        "Fox",
+        "Fr",
+        "Nor"
     ],
     "bya": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
-    ],
-    "single": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "replace": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "baa",
+        "boa",
+        "bra",
+        "by",
+        "bye"
     ],
     "operationreplacing": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "r": [
-        "A",
-        "AA",
-        "AB",
-        "AC",
-        "AD"
+        "denationalizing",
+        "operational",
+        "operationally",
+        "overstimulating",
+        "rationalizing"
     ],
     "tInsert": [
-        "AI's",
-        "AIs",
-        "A's",
-        "AA's",
-        "AB's"
+        "insert",
+        "tenser",
+        "tensest",
+        "Ibert",
+        "Inst"
     ],
     "Insert": [
-        "A's",
-        "AI's",
-        "AIs",
-        "A",
-        "AA"
-    ],
-    "cart": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "insert",
+        "Ibert",
+        "Inst",
+        "assert",
+        "desert"
     ],
     "asingle": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "insert": [
-        "A's",
-        "AIs",
-        "A",
-        "AA",
-        "AA's"
+        "atingle",
+        "single",
+        "Kringle",
+        "angle",
+        "asinine"
     ],
     "operationinserting": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "ratiocinating",
+        "electioneering",
+        "operation's",
+        "operations",
+        "overwintering"
     ],
     "catDelete": [
-        "ABD",
-        "AD",
-        "AD's",
-        "ADC",
-        "ADD"
+        "athlete",
+        "cancelate",
+        "catenate",
+        "matelote",
+        "Bakelite"
     ],
     "Delete": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "char": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "delete": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "delete",
+        "Celeste",
+        "Deere",
+        "Deleon",
+        "Delft"
     ],
     "operationdeleting": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "h": [
-        "A",
-        "AA",
-        "AB",
-        "AC",
-        "AD"
+        "denationalizing",
+        "electioneering",
+        "operational",
+        "operationally",
+        "overindulging"
     ],
     "charThe": [
-        "ACT",
-        "ACTH",
-        "AFT",
-        "ATC",
-        "ATM"
+        "charade",
+        "chare",
+        "charge",
+        "charkha",
+        "charlie"
     ],
     "Sto": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
+        "Ito",
+        "So",
+        "Soto",
+        "St",
+        "Sta"
     ],
     "Tis": [
-        "A's",
-        "AIs",
-        "A",
-        "AA",
-        "AA's"
-    ],
-    "defined": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "minimum": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "number": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Dis",
+        "T's",
+        "TVs",
+        "Tais",
+        "Ti"
     ],
     "ofoperations": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "required": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "operations",
+        "cooperation",
+        "cooperation's",
+        "federations",
+        "operation"
     ],
     "StoT": [
-        "ACT",
-        "AFT",
-        "A",
-        "A's",
-        "AA"
-    ],
-    "analysis": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "Stoa",
+        "Aton",
+        "Eton",
+        "Ito",
+        "SALT"
     ],
     "toalgorithms": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "algorithms",
+        "algorithm",
+        "algorithm's",
+        "algorisms",
+        "algorithmic"
     ],
     "Heres": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "transforming": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "Ceres",
+        "Here",
+        "Here's",
+        "Hermes",
+        "Xeres"
     ],
     "shownbelow": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "snowbelt",
+        "snowplow",
+        "Counselor",
+        "Hounslow",
+        "Snowbelt"
     ],
     "lefttoright": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "order": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "acting": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Cartwright",
+        "affright",
+        "bethought",
+        "birthright",
+        "earthlight"
     ],
     "Acknowledgment": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "acknowledgment",
+        "acknowledgement",
+        "acknowledgments",
+        "acknowledgements",
+        "acknowledgment's"
     ],
     "Thanks": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "Prof": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "Amanda": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "hanks",
+        "shanks",
+        "thanks",
+        "Banks",
+        "Chan's"
     ],
     "Stent": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "Davis": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "stent",
+        "tent",
+        "Aten",
+        "Brent",
+        "Gent"
     ],
     "Institute": [
-        "A's",
-        "AI's",
-        "AIs",
-        "A",
-        "AA"
-    ],
-    "Colby": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "institute",
+        "constitute",
+        "destitute",
+        "instituted",
+        "instituter"
     ],
     "College": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "helpful": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "conversations": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "preparing": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "college",
+        "Colleen",
+        "allege",
+        "collage",
+        "colleges"
     ],
     "Operation": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "operation",
+        "aeration",
+        "deration",
+        "iteration",
+        "operations"
     ],
     "StringStarting": [
-        "ABS",
-        "AIDS",
-        "AIDS's",
-        "ANSI",
-        "ANSIs"
+        "strangulating",
+        "triangulating",
+        "ingrafting",
+        "instating",
+        "irrigating"
     ],
     "analysisreplace": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "n": [
-        "A",
-        "AA",
-        "AB",
-        "AC",
-        "AD"
-    ],
-    "l": [
-        "A",
-        "AA",
-        "AB",
-        "AC",
-        "AD"
+        "analysis",
+        "analysis's",
+        "anyplace",
+        "fireplace",
+        "airplane"
     ],
     "alalysisreplace": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "g": [
-        "A",
-        "AA",
-        "AB",
-        "AC",
-        "AD"
+        "fireplace",
+        "airplane",
+        "airspace",
+        "alliterate",
+        "allspice"
     ],
     "alglysisreplace": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "o": [
-        "A",
-        "AA",
-        "AB",
-        "AC",
-        "AD"
+        "fireplace",
+        "airplane",
+        "airspace",
+        "alliterate",
+        "allspice"
     ],
     "algoysisreplace": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "y": [
-        "A",
-        "AA",
-        "AB",
-        "AC",
-        "AD"
+        "fireplace",
+        "aerospace",
+        "airplane",
+        "airspace",
+        "anyplace"
     ],
     "algorsisdelete": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "s": [
-        "A",
-        "A's",
-        "AA",
-        "AB",
-        "AC"
+        "algorism",
+        "algorisms",
+        "considerate",
+        "corselet",
+        "corselets"
     ],
     "algorisinsert": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "t": [
-        "A",
-        "AA",
-        "AB",
-        "AC",
-        "AD"
+        "algorisms",
+        "aborigine",
+        "aborigine's",
+        "aborigines",
+        "algorism"
     ],
     "algori": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "algor",
+        "agora",
+        "algoid",
+        "algorism",
+        "angora"
     ],
     "tsinsert": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "insert",
+        "reinsert",
+        "twinset",
+        "assert",
+        "dissert"
     ],
     "algorit": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "algoid",
+        "algor",
+        "algorism",
+        "algorithm",
+        "Algeria"
     ],
     "hsinsert": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "m": [
-        "A",
-        "AA",
-        "AB",
-        "AC",
-        "AD"
+        "insert",
+        "reinsert",
+        "assert",
+        "dissert",
+        "hinder"
     ],
     "algorith": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "algorithm",
+        "algorism",
+        "algorithms",
+        "acrolith",
+        "alacrity"
     ],
     "msThere": [
-        "ACT",
-        "ACTH",
-        "ACTH's",
-        "AFT",
-        "ATC"
-    ],
-    "ways": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABCs",
-        "ABMs"
-    ],
-    "more": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "than": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "sphere",
+        "Asher",
+        "Escher",
+        "Esther",
+        "adhere"
     ],
     "butbecause": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "because",
+        "barbecue",
+        "bugbears",
+        "bureaus",
+        "butacaine"
     ],
     "This": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABCs",
-        "ABMs"
-    ],
-    "idea": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "leads": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "which": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "somewhat": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "similar": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Tais",
+        "Th's",
+        "Thais",
+        "chis",
+        "his"
     ],
     "towhat": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "we": [
-        "A",
-        "AA",
-        "AB",
-        "AC",
-        "AD"
-    ],
-    "used": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "cowpat",
+        "that",
+        "tomcat",
+        "towboat",
+        "towhead"
     ],
     "Longest": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "congest",
+        "longest",
+        "Long's",
+        "boniest",
+        "congests"
     ],
     "Common": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Commons",
+        "common",
+        "Ammon",
+        "Cimon",
+        "Colon"
     ],
     "Subsequence": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABCs",
-        "ABMs"
-    ],
-    "problem": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "subsequence",
+        "subsequences",
+        "consequence",
+        "sequence",
+        "subsequent"
     ],
     "CS": [
         "AS",
-        "A",
-        "AA",
-        "AB",
-        "ABS"
+        "BS",
+        "C",
+        "CA",
+        "CB"
     ],
     "recursivedefinition": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "function": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "redefinition",
+        "reconsideration",
+        "recrimination",
+        "redefinitions",
+        "definition"
     ],
     "editDistance": [
-        "AD's",
-        "AMD's",
-        "A's",
-        "AA's",
-        "AB's"
-    ],
-    "S": [
-        "A",
-        "AS",
-        "AA",
-        "AB",
-        "ABS"
-    ],
-    "giving": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "distance",
+        "equidistance",
+        "outdistance",
+        "Resistance",
+        "admittance"
     ],
     "StoTBase": [
-        "AB's",
-        "ABCs",
-        "ABMs",
-        "ACTH's",
-        "ATM's"
-    ],
-    "case": [
-        "A's",
-        "AIs",
-        "A",
-        "AA",
-        "AA's"
+        "HBase",
+        "Scopas",
+        "Scorsese",
+        "Sloane",
+        "Soave"
     ],
     "When": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Chen",
+        "Wien",
+        "Wren",
+        "hen",
+        "then"
     ],
     "SorTare": [
-        "ACT",
-        "ACTH",
-        "ACTH's",
-        "AFT",
-        "ATC"
-    ],
-    "empty": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "length": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "nonempty": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Forfar",
+        "Harare",
+        "Horace",
+        "Horae",
+        "Lorre"
     ],
     "stringtransforming": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "transforming",
+        "strengthening",
+        "stripteasing",
+        "transferring",
+        "transformism"
     ],
     "Twould": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "take": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "would",
+        "Gould",
+        "Toul",
+        "could",
+        "should"
     ],
     "Tinsert": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABCs",
-        "ABMs"
-    ],
-    "would": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "insert",
+        "dissert",
+        "inert",
+        "insect",
+        "inserts"
     ],
     "Sdelete": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "delete",
+        "Selene",
+        "delate",
+        "deleted",
+        "deletes"
     ],
     "Thus": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABCs",
-        "ABMs"
-    ],
-    "stand": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Th's",
+        "Thu",
+        "Thun",
+        "Thur",
+        "Thurs"
     ],
     "theempty": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "empty",
+        "nonempty",
+        "preempt",
+        "preempts",
+        "tempt"
     ],
     "lenT": [
-        "ACT",
-        "AFT",
-        "A",
-        "A's",
-        "AA"
+        "lend",
+        "leno",
+        "lens",
+        "lent",
+        "Ben"
     ],
     "lenSRecursive": [
-        "AIDS's",
-        "ANSIs",
-        "ASCII's",
-        "ASCIIs",
-        "ASL's"
-    ],
-    "cases": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "last": [
-        "A's",
-        "AIs",
-        "A",
-        "AA",
-        "AA's"
-    ],
-    "symbol": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "excursive",
+        "incursive",
+        "recursive",
+        "concussive",
+        "consecutive"
     ],
     "Sequals": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "no": [
-        "A",
-        "AA",
-        "AB",
-        "AC",
-        "AD"
-    ],
-    "has": [
-        "A's",
-        "AIs",
-        "A",
-        "AA",
-        "AA's"
+        "equals",
+        "coequals",
+        "equal",
+        "equal's",
+        "sequels"
     ],
     "bedone": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "begone",
+        "redone",
+        "Oenone",
+        "Redon",
+        "Zedong"
     ],
     "mstandforlenS": [
-        "ABS",
-        "AIDS",
-        "ANZUS",
-        "AS",
-        "ATS"
+        "mandolin",
+        "mandolins",
+        "mandorla",
+        "sanderling",
+        "standalone"
     ],
     "nstand": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "means": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "when": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "Sm": [
-        "A",
-        "AA",
-        "AB",
-        "AC",
-        "AD"
+        "stand",
+        "Astana",
+        "Ostend",
+        "Rostand",
+        "inkstand"
     ],
     "Tn": [
-        "A",
-        "AA",
-        "AB",
-        "AC",
-        "AD"
+        "An",
+        "Bn",
+        "In",
+        "Ln",
+        "Mn"
     ],
     "editdistance": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "equidistance",
+        "outdistance",
+        "distance",
+        "outdistanced",
+        "outdistances"
     ],
     "StoTis": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "just": [
-        "A's",
-        "AIs",
-        "A",
-        "AA",
-        "AA's"
+        "Solis",
+        "Stoa's",
+        "Stoic",
+        "Stoics",
+        "Stokes"
     ],
     "Tnie": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Amie",
+        "Angie",
+        "Anne",
+        "Annie",
+        "Brie"
     ],
     "allbut": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "characters": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "ablaut",
+        "abut",
+        "album",
+        "allium",
+        "allot"
     ],
     "stringsIfSmTn": [
-        "AIDS",
-        "AIDS's",
-        "A's",
-        "AA's",
-        "AB's"
-    ],
-    "however": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "then": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "some": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "done": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "address": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "strings",
+        "strongman",
+        "strongmen",
+        "Springsteen",
+        "springs"
     ],
     "thatdifference": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "difference",
+        "indifference",
+        "differences",
+        "transference",
+        "adherence"
     ],
     "Because": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "were": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "using": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "because",
+        "Beaune",
+        "cause",
+        "recluse",
+        "recuse"
     ],
     "stringsthere": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "options": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "ringster",
+        "stratosphere",
+        "strengthen",
+        "strengthened",
+        "strengthener"
     ],
     "thatreplace": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "fireplace",
+        "replace",
+        "Laplace",
+        "airplane",
+        "airspace"
     ],
     "Tndelete": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "delete",
+        "andesite",
+        "delate",
+        "deleted",
+        "deletes"
     ],
     "orinsert": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "Tonto": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "end": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
-    ],
-    "Sand": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "insert",
+        "preinsert",
+        "reinsert",
+        "rinser",
+        "bringer"
     ],
     "intoTnEach": [
-        "ACT",
-        "ACTH",
-        "ACTH's",
-        "AEC",
-        "AEC's"
-    ],
-    "these": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABCs",
-        "ABMs"
-    ],
-    "requires": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "operation": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "plus": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABCs",
-        "ABMs"
-    ],
-    "remaining": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "transformation": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "whichever": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "option": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "So": [
-        "A",
-        "AA",
-        "AB",
-        "AC",
-        "AD"
+        "insomniac",
+        "insomniacs",
+        "intonate",
+        "Antonia",
+        "Antonia's"
     ],
     "forthe": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "follows": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "recall": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "forte",
+        "forth",
+        "Dorthy",
+        "Forth",
+        "Goethe"
     ],
     "SSmandTTneditDistance": [
-        "ACTH's",
-        "AD's",
-        "AMD's",
-        "ASCII's",
-        "ASCIIs"
-    ],
-    "min": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
+        "Sandinista",
+        "Sandinista's",
+        "admittance",
+        "nonexistence",
+        "nonresistance"
     ],
     "TneditDistance": [
-        "AD's",
-        "AMD's",
-        "A's",
-        "AA's",
-        "AB's"
-    ],
-    "put": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
-    ],
-    "together": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Resistance",
+        "distance",
+        "equidistance",
+        "nonresistance",
+        "outdistance"
     ],
     "definitionWhen": [
-        "AWACS",
-        "AWOL",
-        "AWS",
-        "AWS's",
-        "A"
+        "definition",
+        "definition's",
+        "definitional",
+        "definitions",
+        "definitive"
     ],
     "emptyeditDistance": [
-        "AD's",
-        "AMD's",
-        "A's",
-        "AA's",
-        "AB's"
+        "equidistance",
+        "outdistance",
+        "precipitance",
+        "Resistance",
+        "copyediting"
     ],
     "andeditDistance": [
-        "AD's",
-        "AMD's",
-        "A's",
-        "AA's",
-        "AB's"
+        "admittance",
+        "Resistance",
+        "acquittance",
+        "admittances",
+        "assistance"
     ],
     "lenSIfSm": [
-        "AIDS",
-        "ANSI",
-        "ANSIs",
-        "ASSR",
-        "ABS"
+        "Bentham",
+        "Blenheim",
+        "ISIS",
+        "Jenifer",
+        "Jennifer"
     ],
     "TnIfSmTneditDistance": [
-        "AIDS's",
-        "ACTH's",
-        "AD's",
-        "AI's",
-        "AIDS"
+        "nonexistence",
+        "nonresistance",
+        "Resistance",
+        "Sandinista",
+        "Sandinista's"
     ],
     "That": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "our": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
-    ],
-    "full": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "first": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABCs",
-        "ABMs"
-    ],
-    "two": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
-    ],
-    "equations": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "being": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "base": [
-        "A's",
-        "AIs",
-        "A",
-        "AA",
-        "AA's"
+        "Thad",
+        "Thai",
+        "Thant",
+        "Thar",
+        "chat"
     ],
     "casesand": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "Aalesund",
+        "Lakeland",
+        "Sassanid",
+        "baseman",
+        "cabstand"
     ],
     "SandTare": [
-        "ACT",
-        "ACTH",
-        "ACTH's",
-        "AFT",
-        "ATC"
+        "Candace",
+        "Sandburg",
+        "Sanders",
+        "Sandra",
+        "Sandra's"
     ],
     "Implement": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "implement",
+        "complement",
+        "impalement",
+        "implements",
+        "Clement"
     ],
     "DistanceWorking": [
-        "A's",
-        "AD's",
-        "AIs",
-        "AWACS",
-        "AWACS's"
+        "disaccording",
+        "disconcerting",
+        "distancing",
+        "pitchforking",
+        "anchoring"
     ],
     "versionsof": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "input": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "versions",
+        "aversions",
+        "eversions",
+        "version",
+        "version's"
     ],
     "wordsa": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "straightforward": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "words",
+        "Horsa",
+        "Lords",
+        "cords",
+        "fords"
     ],
     "anda": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Banda",
+        "Ganda",
+        "Wanda",
+        "ana",
+        "and"
     ],
     "bottomup": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "bottom",
+        "bottom's",
+        "bottomed",
+        "bottomry",
+        "bottoms"
     ],
     "implementationIn": [
-        "AFAIK",
-        "AI",
-        "AIs",
-        "ANSI",
-        "ANSIs"
-    ],
-    "addition": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "implementation",
+        "implementation's",
+        "implementations",
+        "implantation",
+        "implantation's"
     ],
     "ofchoice": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "choice",
+        "choicer",
+        "choices",
+        "echoic",
+        "ochone"
     ],
     "Analyze": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "time": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "complexity": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "versions": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "analyze",
+        "analyzed",
+        "analyzer",
+        "analyzes",
+        "dialyze"
     ],
     "empiricalcomplexity": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "measures": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "actual": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "runs": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABCs",
-        "ABMs"
-    ],
-    "code": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "empirically",
+        "complexity",
+        "empirical",
+        "epidiascope",
+        "epidiascopes"
     ],
     "asymtotic": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "asymptotic",
+        "apoptotic",
+        "astatic",
+        "asymmetric",
+        "asymptomatic"
     ],
     "analysesto": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "describe": [
-        "A's",
-        "AIs",
-        "A",
-        "AA",
-        "AA's"
-    ],
-    "differences": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "runtime": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "analyses",
+        "analysis",
+        "analysis's",
+        "analyst",
+        "analysts"
     ],
     "efficienciesFor": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "asymptotic": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "version": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABCs",
-        "ABMs"
-    ],
-    "sure": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "present": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABCs",
-        "ABMs"
+        "efficiencies",
+        "deficiencies",
+        "efficiency's",
+        "inefficiencies",
+        "efficiency"
     ],
     "andexplain": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "recurrence": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "describes": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "explain",
+        "reexplain",
+        "underlain",
+        "explains",
+        "peneplain"
     ],
     "Although": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "although",
+        "though",
+        "Althing",
+        "Clough",
+        "bethought"
     ],
     "notrequired": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "analyze": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "arrive": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "required",
+        "nontenured",
+        "require",
+        "requires",
+        "requited"
     ],
     "\u0398": [
         "A",
-        "AA",
-        "AB",
-        "AC",
-        "AD"
-    ],
-    "bound": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "get": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
-    ],
-    "good": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "grade": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "B",
+        "C",
+        "D",
+        "E"
     ],
     "mightchoose": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "attempt": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "so": [
-        "A",
-        "AA",
-        "AB",
-        "AC",
-        "AD"
-    ],
-    "show": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "greater": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "depth": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "command": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "relevant": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "concepts": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "lighthouse",
+        "lighthouses",
+        "aitchbone",
+        "choose",
+        "eighth's"
     ],
     "Asalways": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "assignments": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "showing": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "related": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "always",
+        "Amalia's",
+        "Arawaks",
+        "Asama's",
+        "Ayala's"
     ],
     "willbe": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "considered": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABCs",
-        "ABMs"
+        "Billie",
+        "Lille",
+        "Lillie",
+        "Millie",
+        "Willie"
     ],
     "gradeHint": [
-        "ACTH",
-        "ACTH's",
-        "AHQ",
-        "A",
-        "A's"
-    ],
-    "going": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "try": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
-    ],
-    "analyzing": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "gradating",
+        "gradient",
+        "gradin",
+        "grading",
+        "grapevine"
     ],
     "settingup": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "recursion": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "tree": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "may": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
-    ],
-    "challenging": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "solve": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "techniques": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "setting",
+        "setting's",
+        "settings",
+        "betting",
+        "getting"
     ],
     "onwhich": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "primarily": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "focused": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "but": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
-    ],
-    "able": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "which",
+        "Norwich",
+        "enrich",
+        "nonwhite",
+        "ontic"
     ],
     "toget": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "lower": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Roget",
+        "Colet",
+        "Moet",
+        "Monet",
+        "Puget"
     ],
     "\u2126": [
         "A",
-        "AA",
-        "AB",
-        "AC",
-        "AD"
-    ],
-    "upper": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "B",
+        "C",
+        "D",
+        "E"
     ],
     "Big": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
-    ],
-    "O": [
-        "A",
-        "AA",
-        "AB",
-        "AC",
-        "AD"
-    ],
-    "overall": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Bi",
+        "Bib",
+        "Bic",
+        "Bim",
+        "Brig"
     ],
     "whichmay": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "highway",
+        "watchman",
+        "which",
+        "whimsy",
+        "whinchat"
     ],
     "Consider": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABCs",
-        "ABMs"
-    ],
-    "levels": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "worst": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABCs",
-        "ABMs"
+        "consider",
+        "confider",
+        "considers",
+        "insider",
+        "onside"
     ],
     "Whatsthe": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "smallest": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "could": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Wheatstone",
+        "Whittle",
+        "chaste",
+        "haste",
+        "Battle"
     ],
     "Whats": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "largest": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "Ghats",
+        "chats",
+        "ghats",
+        "hats",
+        "whats"
     ],
     "How": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
-    ],
-    "can": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
+        "Dow",
+        "Haw",
+        "Ho",
+        "Hon",
+        "Hos"
     ],
     "usethat": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Letha",
+        "cushat",
+        "lethal",
+        "seat",
+        "seta"
     ],
     "informationalong": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "summation": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "formulas": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "informational",
+        "conformational",
+        "formational",
+        "information",
+        "information's"
     ],
     "weve": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "seen": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "eve",
+        "wave",
+        "we've",
+        "weave",
+        "wee"
     ],
     "semestertocome": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "metronome",
+        "semester",
+        "semester's",
+        "semesters",
+        "sesterce"
     ],
     "boundsTo": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "standard": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "methods": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "bounds",
+        "abounds",
+        "bonds",
+        "bound",
+        "bound's"
     ],
     "willprobably": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "empirical": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "data": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "feel": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "free": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "whatever": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "improbably",
+        "improbable",
+        "probably",
+        "allowably",
+        "disprovable"
     ],
     "youthink": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "perhaps": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "including": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "mouthing",
+        "outthink",
+        "southing",
+        "youthen",
+        "Soutine"
     ],
     "languagespecific": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "tools": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "conspecific",
+        "languages",
+        "nonspecific",
+        "unspecific",
+        "language"
     ],
     "actualtime": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "spent": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "running": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "run": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
-    ],
-    "implementations": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "large": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "enough": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "examples": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "difference": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "efficiency": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "actualize",
+        "actualities",
+        "actuality",
+        "actualized",
+        "actualizes"
     ],
     "SCOWL": [
+        "COL",
+        "STOL",
         "AOL",
         "AWOL",
-        "AC",
-        "AC's",
-        "ACLU"
+        "CO"
     ],
     "dictionaryfor": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "dictionary",
+        "dictionary's",
+        "dictionaries",
+        "lectionary",
+        "cautionary"
     ],
     "Section": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "below": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "lection",
+        "section",
+        "Seton",
+        "Sexton",
+        "action"
     ],
     "sufficientPresent": [
-        "ADP's",
-        "AMP's",
-        "AP's",
-        "APC's",
-        "ATP's"
+        "sufficiency's",
+        "sufficient",
+        "sufficiently",
+        "efficiencies",
+        "sufficiency"
     ],
     "writeupalong": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "analyses": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "explanations": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "writeup",
+        "Chittagong",
+        "crippling",
+        "criterial",
+        "criterion"
     ],
     "correctlyimplement": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "complement",
+        "reconcilement",
+        "belittlement",
+        "cobelligerent",
+        "complements"
     ],
     "distanceYou": [
-        "A's",
-        "AIs",
-        "A",
-        "AA",
-        "AA's"
-    ],
-    "also": [
-        "A's",
-        "AIs",
-        "A",
-        "AA",
-        "AA's"
-    ],
-    "submit": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "described": [
-        "A's",
-        "AIs",
-        "A",
-        "AA",
-        "AA's"
-    ],
-    "fully": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "commented": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "easily": [
-        "A's",
-        "AIs",
-        "A",
-        "AA",
-        "AA's"
-    ],
-    "readable": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "style": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "distance",
+        "distance's",
+        "distanced",
+        "distances",
+        "cistaceous"
     ],
     "codeshould": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "Wodehouse",
+        "codeword",
+        "coldshoulder",
+        "coonhound",
+        "copyhold"
     ],
     "algorithmsa": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "reader": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "should": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "algorithms",
+        "algorithm",
+        "algorithm's",
+        "algorithmic",
+        "algorisms"
     ],
     "immediatelysee": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "directly": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "immediately",
+        "immediateness",
+        "immediate",
+        "immediateness's",
+        "mediately"
     ],
     "pseudocode": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "there": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "essential": [
-        "A's",
-        "AIs",
-        "A",
-        "AA",
-        "AA's"
-    ],
-    "details": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "include": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "pseudopod",
+        "pseudoscope",
+        "pseudocarp",
+        "pseudopodia",
+        "pseudo"
     ],
     "commentsin": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "ideally": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "follow": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "straightforwardly": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "commenting",
+        "comments",
+        "commencing",
+        "commending",
+        "commends"
     ],
     "notrequire": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "such": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "extra": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "documentation": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "In": [
-        "A",
-        "AA",
-        "AB",
-        "AC",
-        "AD"
+        "require",
+        "foursquare",
+        "required",
+        "requires",
+        "requite"
     ],
     "isnt": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "int",
+        "isn't",
+        "Aisne",
+        "Cant",
+        "Gent"
     ],
     "easilyreadable": [
-        "A's",
-        "AIs",
-        "A",
-        "AA",
-        "AA's"
-    ],
-    "understandable": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "spreadable",
+        "readable",
+        "shreddable",
+        "unreadable",
+        "Airedale"
     ],
     "youralgorithms": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "earn": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "algorithms",
+        "algorithm",
+        "algorithm's",
+        "algorisms",
+        "algorithmic"
     ],
     "creditNote": [
-        "AFN",
-        "ANSI",
-        "ANSIs",
-        "ANZUS",
-        "A"
+        "creditable",
+        "creditor",
+        "creditors",
+        "crepitate",
+        "redingote"
     ],
     "You": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
-    ],
-    "need": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "specifications": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "formal": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "loop": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "invariants": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "inductive": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "arguments": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "explain": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "structure": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Dou",
+        "Lou",
+        "fou",
+        "sou",
+        "you"
     ],
     "codethe": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "intention": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Goethe",
+        "codeine",
+        "Bethe",
+        "Cadette",
+        "Colette"
     ],
     "theseexplanations": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "less": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABCs",
-        "ABMs"
-    ],
-    "rather": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "structured": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "explanations",
+        "explanation",
+        "explanation's",
+        "tessellations",
+        "exclamations"
     ],
     "correcntess": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "correctest",
+        "correctness",
+        "corrected",
+        "correcter",
+        "correctors"
     ],
     "argumentalthough": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "argumentation",
+        "argumentation's",
+        "argumentative",
+        "argumentatively",
+        "argumentum"
     ],
     "youfind": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "doing": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "makes": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "explanation": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "clearer": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Cousin",
+        "Houdini",
+        "Pound",
+        "Sound",
+        "Soutine"
     ],
     "alwaysclarity": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "alacrity",
+        "vascularity",
+        "alkalinity",
+        "angularity",
+        "annularity"
     ],
     "Spelling": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "spelling",
+        "Schelling",
+        "Sterling",
+        "belling",
+        "dwelling"
     ],
     "CorrectionOne": [
-        "ALGOL",
-        "AOL",
-        "APO",
-        "AWOL",
-        "A"
-    ],
-    "application": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "built": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "correction": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "program": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "reads": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "correction",
+        "correction's",
+        "correctional",
+        "corrections",
+        "correcting"
     ],
     "througha": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "body": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "text": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "suggests": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "alternates": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "misspelled": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABCs",
-        "ABMs"
+        "through",
+        "thorough",
+        "though",
+        "thought",
+        "throughway"
     ],
     "Youve": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "probably": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "checkers": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "before": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Dove",
+        "Fauve",
+        "House",
+        "Joule",
+        "Jove"
     ],
     "They": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "start": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "out": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
+        "Thea",
+        "Trey",
+        "hey",
+        "they",
+        "whey"
     ],
     "dictionaryie": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "list": [
-        "A's",
-        "AIs",
-        "A",
-        "AA",
-        "AA's"
-    ],
-    "separate": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "file": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "known": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "they": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "dictionaries",
+        "dictionary",
+        "dictionary's",
+        "fictionalize",
+        "lectionary"
     ],
     "correctlyspelled": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "read": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "through": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "each": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "encounter": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "correctable",
+        "corrected",
+        "correctly",
+        "corresponded",
+        "respelled"
     ],
     "inthe": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "dictionary": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "suggest": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "Bethe",
+        "Lethe",
+        "ante",
+        "anthem",
+        "anther"
     ],
     "arein": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "rein",
+        "Arlin",
+        "Bahrein",
+        "Brain",
+        "Cardin"
     ],
     "spellingsThats": [
-        "ACTH's",
-        "ATM's",
-        "ATP's",
-        "A's",
-        "AA's"
-    ],
-    "where": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "comes": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "slingshots",
+        "spelling's",
+        "spellings",
+        "Bellingham",
+        "Bellingham's"
     ],
     "Upon": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "encountering": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Upton",
+        "upon",
+        "Amon",
+        "Apo",
+        "Apoc"
     ],
     "wthats": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "whats",
+        "Ghats",
+        "chats",
+        "ghats",
+        "hats"
     ],
     "thedictionary": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "determine": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "dictionary",
+        "traditionary",
+        "expeditionary",
+        "lectionary",
+        "petitionary"
     ],
     "wto": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
+        "Ito",
+        "qto",
+        "to",
+        "who",
+        "wo"
     ],
     "Youll": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "checking": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Boult",
+        "Bull",
+        "Gould",
+        "Hull",
+        "Joule"
     ],
     "andthen": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "test": [
-        "A's",
-        "AIs",
-        "A",
-        "AA",
-        "AA's"
+        "another",
+        "anthem",
+        "anther",
+        "Beuthen",
+        "Pantheon"
     ],
     "yourresults": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "illustrate": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "strengths": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "limitations": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "results",
+        "Durrell's",
+        "Forrest",
+        "Forrest's",
+        "Lourdes's"
     ],
     "AlgorithmIn": [
-        "AFAIK",
-        "AI",
-        "AIs",
-        "ANSI",
-        "ANSIs"
-    ],
-    "meets": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "following": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "algorithm",
+        "algorithm's",
+        "algorithmic",
+        "algorithms",
+        "Algerian"
     ],
     "specificationsInput": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "consisting": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "checked": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "specifications",
+        "specification",
+        "specification's",
+        "pacification",
+        "pacification's"
     ],
     "adictionary": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "dictionary",
+        "dictionary's",
+        "functionary",
+        "lectionary",
+        "reactionary"
     ],
     "Dof": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
-    ],
-    "correctly": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "spelled": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Doe",
+        "Dom",
+        "Don",
+        "Dot",
+        "Dou"
     ],
     "wordsOutput": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "output",
+        "wordsmith",
+        "wordsmiths",
+        "Lordship",
+        "Lordship's"
     ],
     "winTthat": [
-        "ACT",
-        "ACTH",
-        "ACTH's",
-        "AFT",
-        "ATC"
-    ],
-    "occur": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "D": [
-        "A",
-        "AD",
-        "AA",
-        "AB",
-        "ABD"
+        "whinchat",
+        "withal",
+        "Aintab",
+        "Bentham",
+        "Bingham"
     ],
     "Dwithminimal": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Brahminical",
+        "arithmetical",
+        "minimal",
+        "subminimal",
+        "Bithynia"
     ],
     "wie": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
-    ],
-    "suggestions": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "corrected": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Lie",
+        "die",
+        "fie",
+        "gie",
+        "hie"
     ],
     "wwhich": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "minimal": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "ties": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABCs",
-        "ABMs"
+        "which",
+        "whish",
+        "Chico",
+        "Erich",
+        "Mich"
     ],
     "forleast": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "pick": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "them": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "forecast",
+        "foremast",
+        "forest",
+        "foulest",
+        "Boreas"
     ],
     "minimaledit": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "minimalist",
+        "minimality",
+        "Minimalist",
+        "minimal",
+        "minimalism"
     ],
     "To": [
-        "A",
-        "AA",
-        "AB",
-        "AC",
-        "AD"
-    ],
-    "clear": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Co",
+        "Ho",
+        "Io",
+        "Jo",
+        "Mo"
     ],
     "alorithm": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "provide": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "output": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "every": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "algorithm",
+        "algorithms",
+        "algorism",
+        "algorithm's",
+        "algorithmic"
     ],
     "wordinTthats": [
-        "ACTH's",
-        "ATM's",
-        "ATP's",
-        "A's",
-        "AA's"
+        "Corinth's",
+        "Corinthians",
+        "ordinals",
+        "ordinate",
+        "ordinate's"
     ],
     "Once": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "reporting": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "results": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "tests": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "effectiveness": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "once",
+        "Anne",
+        "Ice",
+        "Inc",
+        "Inca"
     ],
     "projectyour": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "without": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "projector",
+        "projection",
+        "projections",
+        "projectors",
+        "prosector"
     ],
     "redescribing": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "describing",
+        "prescribing",
+        "resubscribing",
+        "ascribing",
+        "descrying"
     ],
     "reimplementing": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "implementing",
+        "complementing",
+        "complimenting",
+        "representing",
+        "supplementing"
     ],
     "golinearly": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "exhaustively": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "Din": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
+        "linearly",
+        "lineally",
+        "bilinear",
+        "biyearly",
+        "bovinely"
     ],
     "bruteforce": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "manner": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "before",
+        "bruter",
+        "counterforce",
+        "deforce",
+        "reforge"
     ],
     "needto": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "anything": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "linear": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "exhaustive": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "search": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "approach": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "need",
+        "need's",
+        "needed",
+        "needle",
+        "needs"
     ],
     "thisproject": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABCs",
-        "ABMs"
-    ],
-    "although": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "else": [
-        "A's",
-        "AIs",
-        "A",
-        "AA",
-        "AA's"
-    ],
-    "making": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "introject",
+        "project",
+        "disject",
+        "disprove",
+        "disproved"
     ],
     "improvments": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "improvements",
+        "improvement",
+        "improvement's",
+        "employments",
+        "impairments"
     ],
     "algorithmor": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "presented": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABCs",
-        "ABMs"
+        "algorithm",
+        "algorithm's",
+        "algorithmic",
+        "algorithms",
+        "algorism"
     ],
     "belowFor": [
-        "AF",
-        "AFB",
-        "AFC",
-        "AFDC",
-        "AFN"
+        "belabor",
+        "bellwort",
+        "below",
+        "blower",
+        "blowier"
     ],
     "Dfor": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Dior",
+        "for",
+        "Afr",
+        "Amor",
+        "Cor"
     ],
     "Spell": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Shell",
+        "Snell",
+        "spell",
+        "Aspell",
+        "Bell"
     ],
     "Checking": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "checking",
+        "Chekiang",
+        "cheeking",
+        "chocking",
+        "chucking"
     ],
     "Oriented": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Oriente",
+        "oriented",
+        "Orient",
+        "Orient's",
+        "Oriental"
     ],
     "Word": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Ford",
+        "Lord",
+        "Ward",
+        "Wood",
+        "cord"
     ],
     "Lists": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "downloaded": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "fists",
+        "lists",
+        "mists",
+        "Dis's",
+        "Easts"
     ],
     "Assignmentswebsite": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "assignment's",
+        "assignments",
+        "assignment",
+        "Albigenses",
+        "Assamese's"
     ],
     "fromhttpssourceforgenetprojectswordlistFor": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "download": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "US": [
-        "AS",
-        "A",
-        "AA",
-        "AB",
-        "ABS"
+        "frontogenesis",
+        "gastroenterologist",
+        "hypercorrection",
+        "lumpenproletariat",
+        "reconstructionist"
     ],
     "wordlist": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "make": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "lordliest",
+        "moralist",
+        "wordiest",
+        "wordless",
+        "worldliest"
     ],
     "standardised": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "across": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "submitting": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "might": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "fun": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
-    ],
-    "explore": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "standardized",
+        "standardize",
+        "standardizes",
+        "standard's",
+        "standards"
     ],
     "otherEnglishlanguage": [
-        "AEC's",
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's"
+        "interlanguage",
+        "Englishman",
+        "Englishman's",
+        "interlanguages",
+        "metalanguage"
     ],
     "wordlists": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "wont": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "moralists",
+        "wordless",
+        "Nobelists",
+        "amoralists",
+        "aorists"
     ],
     "Whenyou": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "unzip": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "zipped": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "folder": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "files": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "Chengdu",
+        "Chengtu",
+        "Kenyon",
+        "phenol",
+        "phenom"
     ],
     "enUSlargetxt": [
-        "ABS",
-        "AIDS",
-        "AIDS's",
-        "ANSI",
-        "ANSIs"
+        "enlarge",
+        "enlarged",
+        "enlargement",
+        "enlarger",
+        "enlarger's"
     ],
     "pleaselook": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "long": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "phrasebook",
+        "casebook",
+        "greasewood",
+        "leaseback",
+        "leasehold"
     ],
     "spelledfor": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "purposes": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "spelled",
+        "speller",
+        "selector",
+        "seller",
+        "shelled"
     ],
     "assignmentYour": [
-        "A's",
-        "AIs",
-        "A",
-        "AA",
-        "AA's"
+        "assignment",
+        "assignment's",
+        "assignments",
+        "alignment",
+        "alignment's"
     ],
     "psuedocode": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "pseudopod",
+        "pseudoscope",
+        "autocade",
+        "bytecode",
+        "decode"
     ],
     "Englishdescription": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "works": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "correctness": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "description",
+        "nonprescription",
+        "adscription",
+        "circumscription",
+        "descriptions"
     ],
     "argumentas": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "usual": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "argument's",
+        "arguments",
+        "argument",
+        "argumentum",
+        "argent's"
     ],
     "codefully": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "carefully",
+        "dolefully",
+        "hopefully",
+        "woefully",
+        "balefully"
     ],
     "stylebut": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "stylet",
+        "stakeout",
+        "stalest",
+        "style",
+        "style's"
     ],
     "beselfcontained": [
-        "A's",
-        "AIs",
-        "A",
-        "AA",
-        "AA's"
-    ],
-    "illustrative": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "contained",
+        "ascertained",
+        "benedictine",
+        "bespectacled",
+        "bloodstained"
     ],
     "itworks": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "artworks",
+        "cutworks",
+        "networks",
+        "notworks",
+        "outworks"
     ],
     "ie": [
-        "A",
-        "AA",
-        "AB",
-        "AC",
-        "AD"
+        "Be",
+        "Ce",
+        "Fe",
+        "Ge",
+        "He"
     ],
     "thewriteup": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "writeup",
+        "rewrite",
+        "rewrite's",
+        "rewrites",
+        "theories"
     ],
     "selfcontained": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "look": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "understand": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "receive": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "credit": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "contained",
+        "container",
+        "recontacted",
+        "sellotaped",
+        "ascertained"
     ],
     "projectCS": [
-        "AWACS",
-        "ABC",
-        "ABCs",
-        "ABS",
-        "AC"
-    ],
-    "after": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "class": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "project",
+        "project's",
+        "projected",
+        "projector",
+        "projects"
     ],
     "Improve": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "improve",
+        "approve",
+        "improved",
+        "improver",
+        "improves"
     ],
     "SpellChecking": [
-        "ABC",
-        "ABC's",
-        "ABCs",
-        "AC",
-        "AC's"
+        "spellchecking",
+        "pelleting",
+        "rechecking",
+        "shellacking",
+        "spellcheck"
     ],
     "PerformanceThere": [
-        "ACT",
-        "ACTH",
-        "ACTH's",
-        "AFT",
-        "ATC"
-    ],
-    "several": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "different": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "performance": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "performance",
+        "performance's",
+        "performances",
+        "conformance",
+        "conformance's"
     ],
     "correctionalgorithm": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "correctional",
+        "conventionalism",
+        "conventionality",
+        "directionality",
+        "conditionality"
     ],
     "atleast": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "ableist",
+        "ablest",
+        "abreast",
+        "atheist",
+        "atlas"
     ],
     "adomainspecific": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "conspecific",
+        "nonspecific",
+        "overspecific",
+        "transpacific",
+        "unspecific"
     ],
     "yourteams": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "choice": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "higher": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "courteous",
+        "courtesans",
+        "fourteens",
+        "Boreas",
+        "Borneans"
     ],
     "youd": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "like": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "discuss": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "proposed": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "loud",
+        "oud",
+        "yod",
+        "you",
+        "you'd"
     ],
     "improvementswith": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "Ill": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
-    ],
-    "happy": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "meet": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "improvements",
+        "improvement",
+        "improvement's",
+        "implementation",
+        "implementing"
     ],
     "youplease": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "contact": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "early": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "couple's",
+        "couplers",
+        "couples",
+        "couplets",
+        "displease"
     ],
     "yourprocess": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "fourpences",
+        "process",
+        "reprocess",
+        "Thurrock's",
+        "blurriness"
     ],
     "Use": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
+        "Usk",
+        "Ute",
+        "use",
+        "Abe",
+        "Age"
     ],
     "DomainSpecific": [
-        "ABS",
-        "AIDS",
-        "AIDS's",
-        "ANSI",
-        "ANSIs"
+        "conspecific",
+        "nonspecific",
+        "overspecific",
+        "transpacific",
+        "unspecific"
     ],
     "DictionaryThe": [
-        "ACT",
-        "ACTH",
-        "AFT",
-        "ATC",
-        "ATM"
-    ],
-    "dictionaries": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "lists": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "domains": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "spellchecking": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "improved": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "incorporating": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "dictionary",
+        "dictionary's",
+        "dictionaries",
+        "fictionalize",
+        "lectionary"
     ],
     "domainspecific": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "knowledge": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "conspecific",
+        "nonspecific",
+        "overspecific",
+        "transpacific",
+        "unspecific"
     ],
     "domianspecific": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "conspecific",
+        "nonspecific",
+        "overspecific",
+        "transpacific",
+        "unspecific"
     ],
     "dictionaryto": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "alongside": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "dictionary",
+        "dictionary's",
+        "dictionaries",
+        "lectionary",
+        "cautionary"
     ],
     "performanceon": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "performance",
+        "performance's",
+        "performances",
+        "perforation",
+        "performable"
     ],
     "Create": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "derived": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "course": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "lecture": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Crete",
+        "create",
+        "Crane",
+        "Crater",
+        "Creator"
     ],
     "notescourse": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "textbook": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "forecourse",
+        "intercourse",
+        "outercourse",
+        "watercourse",
+        "concourse"
     ],
     "Besure": [
-        "A's",
-        "AB's",
-        "ABCs",
-        "ABMs",
-        "AIs"
-    ],
-    "sufficient": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "creditworthy": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Beaune",
+        "Benue",
+        "Bessie",
+        "assure",
+        "censure"
     ],
     "performanceOnce": [
-        "ALGOL",
-        "ALGOL's",
-        "AOL",
-        "AOL's",
-        "APO"
+        "performance",
+        "performance's",
+        "performances",
+        "permanence",
+        "performable"
     ],
     "youve": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "created": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "you've",
+        "Dove",
+        "Fauve",
+        "House",
+        "Joule"
     ],
     "codeto": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "correct": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "errors": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "diction": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Modesto",
+        "Soweto",
+        "cadet",
+        "cadets",
+        "code"
     ],
     "documentThere": [
-        "ACT",
-        "ACTH",
-        "ACTH's",
-        "AFT",
-        "ATC"
+        "documenter",
+        "documentable",
+        "documentary",
+        "documented",
+        "document"
     ],
     "And": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
+        "Ald",
+        "An",
+        "Ana",
+        "Andy",
+        "Ann"
     ],
     "theyre": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "purpose": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "really": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "there",
+        "they're",
+        "chevre",
+        "eyre",
+        "here"
     ],
     "Inaddition": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "addition",
+        "addiction",
+        "additions",
+        "audition",
+        "inanition"
     ],
     "algorithmfrom": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "compare": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "algorithm",
+        "algorithm's",
+        "algorithmic",
+        "algorithms",
+        "algorism"
     ],
     "performanceof": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "performance",
+        "performance's",
+        "performances",
+        "performable",
+        "conformance"
     ],
     "dictionaryCome": [
-        "ABC",
-        "ABC's",
-        "ABCs",
-        "AC",
-        "AC's"
+        "dictionary",
+        "dictionary's",
+        "dictionaries",
+        "fictionalize",
+        "lectionary"
     ],
     "CSrelated": [
-        "AS",
-        "ASAP",
-        "ASCII",
-        "ASCII's",
-        "ASCIIs"
-    ],
-    "material": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "related",
+        "unrelated",
+        "belated",
+        "chelated",
+        "correlated"
     ],
     "todemonstrate": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "demonstrate",
+        "redemonstrate",
+        "demonstrated",
+        "demonstrates",
+        "remonstrate"
     ],
     "ownsubmitted": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABCs",
-        "ABMs"
+        "resubmitted",
+        "submitted",
+        "manumitted",
+        "submitter",
+        "consummated"
     ],
     "HW": [
-        "A",
-        "AA",
-        "AB",
-        "AC",
-        "AD"
-    ],
-    "notes": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "passages": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "CW",
+        "H",
+        "HE",
+        "HF",
+        "HG"
     ],
     "orother": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "sources": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "brother",
+        "Dorothea",
+        "another",
+        "bother",
+        "brothel"
     ],
     "chooseor": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "modify": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "chooser",
+        "choose",
+        "choosers",
+        "chooses",
+        "choosier"
     ],
     "specificallyto": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "specifically",
+        "pacifically",
+        "soporifically",
+        "specially",
+        "specifiable"
     ],
     "improvementsbut": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "improvements",
+        "improvement",
+        "improvement's",
+        "implementable",
+        "implements"
     ],
     "andbe": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "say": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
+        "Andre",
+        "Danube",
+        "Indre",
+        "Mande",
+        "abbe"
     ],
     "writeupIn": [
-        "AFAIK",
-        "AI",
-        "AIs",
-        "ANSI",
-        "ANSIs"
-    ],
-    "convince": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "writeup",
+        "criterion",
+        "whereupon",
+        "whiten",
+        "whitepine"
     ],
     "workhas": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "indeed": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Gurkhas",
+        "work's",
+        "workbag",
+        "workbags",
+        "workday"
     ],
     "documentsplease": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "documentable",
+        "documentaries",
+        "document's",
+        "documental",
+        "documentarian"
     ],
     "whatevermetrics": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "think": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "effective": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "improvement": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "telemetric",
+        "telemetries",
+        "weatherstrips",
+        "anemometries",
+        "bathymetries"
     ],
     "particulartask": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "finding": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "particular's",
+        "particularism",
+        "particulars",
+        "particulates",
+        "articulates"
     ],
     "readerscan": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "process": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "replicate": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "readers",
+        "readership",
+        "Frederica",
+        "Henderson",
+        "beadsman"
     ],
     "resultsthis": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "result's",
+        "resultant's",
+        "resultants",
+        "results",
+        "Mesolithic"
     ],
     "butconcisely": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "describing": [
-        "A's",
-        "AIs",
-        "A",
-        "AA",
-        "AA's"
-    ],
-    "took": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "concisely",
+        "concavely",
+        "concise",
+        "conciser",
+        "concisest"
     ],
     "misspellingsyour": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "found": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "along": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "alternate": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "suggested": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "misspellings",
+        "misspelling",
+        "misspelling's",
+        "dispelling",
+        "miscellaneous"
     ],
     "Teams": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "beams",
+        "reams",
+        "seams",
+        "teams",
+        "Adams"
     ],
     "ChoiceCreate": [
-        "ABC",
-        "ABC's",
-        "ABCs",
-        "AC",
-        "AC's"
-    ],
-    "least": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABCs",
-        "ABMs"
-    ],
-    "spellchecker": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "domain": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "coacervate",
+        "hibernate",
+        "ocreate",
+        "procreate",
+        "Charente"
     ],
     "itsperformance": [
-        "A's",
-        "AIs",
-        "A",
-        "AA",
-        "AA's"
+        "nonperformance",
+        "performance",
+        "performances",
+        "imperforate",
+        "nonperformance's"
     ],
     "thats": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "specific": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Ghats",
+        "chats",
+        "ghats",
+        "hats",
+        "tats"
     ],
     "domainyou": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "domain",
+        "domain's",
+        "domaine",
+        "domainial",
+        "domains"
     ],
     "creatinganother": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "same": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "procedure": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "above": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "creatinine",
+        "clearinghouse",
+        "clearinghouses",
+        "creatine",
+        "creatines"
     ],
     "toosimilar": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABCs",
-        "ABMs"
+        "dissimilar",
+        "similar",
+        "tonsillar",
+        "prosimian",
+        "simitar"
     ],
     "asmuch": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "novel": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "almuce",
+        "amuck",
+        "avouch",
+        "inasmuch",
+        "much"
     ],
     "aspart": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "apart",
+        "Caspar",
+        "Gaspar",
+        "aport",
+        "aslant"
     ],
     "tooYou": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "modifying": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "auxiliary": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Baotou",
+        "Cotonou",
+        "booboo",
+        "boohoo",
+        "congou"
     ],
     "dictionariesor": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "structures": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "approaches": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "yours": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "encourage": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "dictionaries",
+        "dictionary's",
+        "dictionary",
+        "fictionalizes",
+        "functionaries"
     ],
     "toconsult": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "considering": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABCs",
-        "ABMs"
+        "consult",
+        "coconut",
+        "consul",
+        "consuls",
+        "consults"
     ],
     "Ican": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "offer": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "perspective": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABCs",
-        "ABMs"
+        "Ian",
+        "Icahn",
+        "Incan",
+        "Iran",
+        "Ivan"
     ],
     "youFor": [
-        "AF",
-        "AFB",
-        "AFC",
-        "AFDC",
-        "AFN"
-    ],
-    "elects": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "clearly": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "extent": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "your",
+        "Bogor",
+        "Doctor",
+        "Douro",
+        "Gounod"
     ],
     "yourimprovements": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "improvements",
+        "improvement",
+        "improvement's",
+        "complements",
+        "implements"
     ],
     "Any": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
-    ],
-    "new": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
-    ],
-    "modified": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Amy",
+        "An",
+        "Ana",
+        "Andy",
+        "Ann"
     ],
     "anEnglish": [
-        "AEC's",
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's"
-    ],
-    "description": [
-        "A's",
-        "AIs",
-        "A",
-        "AA",
-        "AA's"
-    ],
-    "brief": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "changes": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "English",
+        "Spanglish",
+        "anguish",
+        "annalist",
+        "english"
     ],
     "fromprevious": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "deep": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "warrant": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "previous",
+        "compendious",
+        "completions",
+        "complexions",
+        "compressions"
     ],
     "Anyauxiliary": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "included": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "auxiliary",
+        "auxiliary's",
+        "axillary",
+        "maxillary",
+        "subaxillary"
     ],
     "separatefiles": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "noted": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "separatrixes",
+        "separate's",
+        "separately",
+        "separateness",
+        "separates"
     ],
     "Present": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABCs",
-        "ABMs"
+        "present",
+        "resent",
+        "credent",
+        "crescent",
+        "presents"
     ],
     "DemoFor": [
-        "AF",
-        "AFB",
-        "AFC",
-        "AFDC",
-        "AFN"
-    ],
-    "gave": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "presentation": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABCs",
-        "ABMs"
-    ],
-    "minutes": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "Demerol",
+        "Demeter",
+        "Demotic",
+        "Exmoor",
+        "Leonor"
     ],
     "lengthFor": [
-        "AF",
-        "AFB",
-        "AFC",
-        "AFDC",
-        "AFN"
+        "lengthier",
+        "Senghor",
+        "length",
+        "length's",
+        "lengthen"
     ],
     "lengthIts": [
-        "AI's",
-        "AIs",
-        "ANSIs",
-        "ASCII's",
-        "ASCIIs"
-    ],
-    "important": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "presentations": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "varying": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "lengths": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "length's",
+        "lengthens",
+        "lengths",
+        "length",
+        "lengthen"
     ],
     "todifferent": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "audiences": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "different",
+        "indifferent",
+        "afferent",
+        "deferent",
+        "differed"
     ],
     "contextsFor": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "recording": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "record": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "lasting": [
-        "A's",
-        "AIs",
-        "A",
-        "AA",
-        "AA's"
-    ],
-    "range": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "contexts",
+        "confessor",
+        "connector",
+        "contactor",
+        "contemnor"
     ],
     "Meeting": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "meeting",
+        "Memling",
+        "beating",
+        "beefing",
+        "beeping"
     ],
     "timeconstraints": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "require": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "planning": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "constraints",
+        "constrains",
+        "constraint",
+        "constraint's",
+        "remonstrants"
     ],
     "processabout": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "what": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "processable",
+        "procession",
+        "processions",
+        "processor",
+        "processors"
     ],
     "demoFor": [
-        "AF",
-        "AFB",
-        "AFC",
-        "AFDC",
-        "AFN"
-    ],
-    "assume": [
-        "A's",
-        "AIs",
-        "A",
-        "AA",
-        "AA's"
-    ],
-    "audience": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Exmoor",
+        "Leonor",
+        "debtor",
+        "decoder",
+        "decor"
     ],
     "Or": [
-        "A",
-        "AA",
-        "AB",
-        "AC",
-        "AD"
-    ],
-    "equivalently": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Ar",
+        "Br",
+        "Cr",
+        "Dr",
+        "Er"
     ],
     "someonewith": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "extensive": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "background": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "who": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
-    ],
-    "wants": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "confirm": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "high": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "quality": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "someone",
+        "someone's",
+        "someones",
+        "Commonwealth",
+        "commonality"
     ],
     "workI": [
-        "AI",
-        "ANSI",
-        "API",
-        "ASCII",
-        "AVI"
+        "work",
+        "works",
+        "Bork",
+        "Cork",
+        "Gorki"
     ],
     "butI": [
-        "AI",
-        "ANSI",
-        "API",
-        "AVI",
-        "A"
-    ],
-    "want": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "verify": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "understands": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "but",
+        "buts",
+        "butt",
+        "Bute",
+        "Hutu"
     ],
     "confirmthat": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "efficiently": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "conferment",
+        "confirm",
+        "confirmable",
+        "confirmand",
+        "confirmation"
     ],
     "wantto": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "shown": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "anatto",
+        "canto",
+        "panto",
+        "tanto",
+        "want"
     ],
     "algorithmlevel": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "algorithm",
+        "algorithm's",
+        "algorithmic",
+        "algorithmically",
+        "algorithms"
     ],
     "implementationlevel": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "implementation",
+        "implementation's",
+        "implementations",
+        "implementable",
+        "implantation"
     ],
     "sureyour": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "surveyor",
+        "purveyor",
+        "surer",
+        "surtout",
+        "surveyors"
     ],
     "dont": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "miss": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABCs",
-        "ABMs"
-    ],
-    "coolness": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "demonstrated": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "Mont",
+        "cont",
+        "dent",
+        "dint",
+        "doit"
     ],
     "improvementsYour": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "demonstration": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "improvements",
+        "improvement",
+        "improvement's",
+        "implementer",
+        "implements"
     ],
     "spellcheckalgorithm": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "comparison": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "spellchecker",
+        "spellchecker's",
+        "spellcheckers",
+        "spellchecking",
+        "spellcheck"
     ],
     "therecursive": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "spellcheck": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "recursive",
+        "excursive",
+        "percussive",
+        "cursive",
+        "discursive"
     ],
     "complexityargument": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "counterargument",
+        "compartment",
+        "complement",
+        "complexities",
+        "complexity"
     ],
     "onesentencelongdescription": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "key": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
+        "nonprescription",
+        "conscription",
+        "interconnection",
+        "overprescription",
+        "decongestion"
     ],
     "eg": [
-        "A",
-        "AA",
-        "AB",
-        "AC",
-        "AD"
+        "Ag",
+        "Eg",
+        "Hg",
+        "Meg",
+        "Mg"
     ],
     "goesthrough": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABCs",
-        "ABMs"
-    ],
-    "constant": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABCs",
-        "ABMs"
-    ],
-    "iteration": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "breakthrough",
+        "guesthouse",
+        "through",
+        "although",
+        "bethought"
     ],
     "andpresent": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "better": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "hope": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "omnipresent",
+        "present",
+        "represent",
+        "Andersen",
+        "accrescent"
     ],
     "improvementYour": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "choose": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "improvement",
+        "improvement's",
+        "improvements",
+        "implementer",
+        "improvident"
     ],
     "withinthe": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "technical": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "slides": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "within",
+        "within's",
+        "withing",
+        "Hittite",
+        "absinthe"
     ],
     "yourwork": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "form": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "easy": [
-        "A's",
-        "AIs",
-        "A",
-        "AA",
-        "AA's"
-    ],
-    "instead": [
-        "A's",
-        "AIs",
-        "A",
-        "AA",
-        "AA's"
+        "outwork",
+        "bodywork",
+        "bookwork",
+        "coursework",
+        "cutwork"
     ],
     "showyour": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "real": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "explaining": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "combine": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "shootout",
+        "showboat",
+        "showdown",
+        "shower",
+        "showier"
     ],
     "twoapproaches": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "interleaving": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "decide": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "approaches",
+        "approach's",
+        "approached",
+        "approach",
+        "cockroaches"
     ],
     "foryou": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "fordo",
+        "forgo",
+        "forgot",
+        "Bordon",
+        "Bornu"
     ],
     "demoAs": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "previous": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "demo's",
+        "demobs",
+        "demons",
+        "demos",
+        "daemons"
     ],
     "Projects": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "entire": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "learn": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "projects",
+        "project",
+        "project's",
+        "protects",
+        "rejects"
     ],
     "thetopic": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "workload": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "balanced": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "metopic",
+        "rhetoric",
+        "thetic",
+        "Aesopic",
+        "Ethiopic"
     ],
     "presentationshould": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "consist": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "member": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "shift": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "presentational",
+        "presentations",
+        "presentation",
+        "presentation's",
+        "presentationism"
     ],
     "durationfollowed": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "teammate": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "denationalized",
+        "rationalized",
+        "buttonholed",
+        "denationalize",
+        "denationalizes"
     ],
     "Presentations": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "presentations",
+        "presentation",
+        "presentation's",
+        "orientations",
+        "presentational"
     ],
     "receivefull": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "terms": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "deceitful",
+        "deceitfully",
+        "receivable",
+        "receive",
+        "received"
     ],
     "thedivision": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "among": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "teammates": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "division",
+        "subdivision",
+        "television",
+        "divisions",
+        "envision"
     ],
     "knowThe": [
-        "ACT",
-        "ACTH",
-        "AFT",
-        "ATC",
-        "ATM"
-    ],
-    "default": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "expectation": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "screen": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "know",
+        "knowable",
+        "knower",
+        "knowhow",
+        "knowing"
     ],
     "ZoomIf": [
-        "AFAIK",
-        "AI",
-        "AIs",
-        "ANSI",
-        "ANSIs"
-    ],
-    "believe": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "see": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
+        "Woolf",
+        "Zomba",
+        "Zosma",
+        "boom",
+        "boom's"
     ],
     "assoon": [
-        "A's",
-        "AIs",
-        "A",
-        "AA",
-        "AA's"
+        "Sassoon",
+        "bassoon",
+        "Passion",
+        "arson",
+        "assign"
     ],
     "WriteUp": [
-        "ACLU",
-        "ANZUS",
-        "A",
-        "A's",
-        "AA"
+        "writeup",
+        "Waite",
+        "Waite's",
+        "White",
+        "White's"
     ],
     "Document": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "itself": [
-        "A's",
-        "AIs",
-        "A",
-        "AA",
-        "AA's"
+        "document",
+        "documents",
+        "monument",
+        "Domett",
+        "accumbent"
     ],
     "willcreate": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "accompanying": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "enable": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Gillette",
+        "Willamette",
+        "binucleate",
+        "cellarette",
+        "create"
     ],
     "thework": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "even": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "rework",
+        "theory",
+        "timework",
+        "Newark",
+        "artwork"
     ],
     "typedsubmitted": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "PDF": [
-        "AD",
-        "ADC",
-        "ADD",
-        "ADM",
-        "ADP"
-    ],
-    "contain": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "algorithmic": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "resubmitted",
+        "submitted",
+        "permitted",
+        "submitter",
+        "transmitted"
     ],
     "leastthe": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABCs",
-        "ABMs"
-    ],
-    "needed": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Seattle",
+        "lathe",
+        "latte",
+        "lease",
+        "leash"
     ],
     "projectPseudocode": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "English": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "descriptions": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "involves": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "proctoscope",
+        "projected",
+        "proctoscopes",
+        "progesterone",
+        "project's"
     ],
     "algorithmsAs": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "algorithm's",
+        "algorithms",
+        "algorithm",
+        "algorithmic",
+        "algorisms"
     ],
     "auxiliaryfiles": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "readers": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "their": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "impact": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "auxiliaries",
+        "auxiliary's",
+        "auxiliary",
+        "ancillaries",
+        "familiarities"
     ],
     "onyour": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "contour",
+        "inpour",
+        "your",
+        "Anjou",
+        "Armour"
     ],
     "resultsConcise": [
-        "ABC's",
-        "ABCs",
-        "AC's",
-        "ACLU's",
-        "ACTH's"
-    ],
-    "convincing": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "reductionism",
+        "reductionist",
+        "repulsion's",
+        "repulsions",
+        "resultant's"
     ],
     "highlevel": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "dishevel",
+        "highline",
+        "Schlegel",
+        "dishevels",
+        "eighteen"
     ],
     "ofyour": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "flour",
+        "four",
+        "your",
+        "Armour",
+        "Cavour"
     ],
     "algorithmsFor": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "algorithms",
+        "algorithm",
+        "algorithm's",
+        "algorithmic",
+        "algorisms"
     ],
     "Choice": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "sentences": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "choice",
+        "Chance",
+        "Chico",
+        "Chile",
+        "Croce"
     ],
     "yourteam": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "came": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "behind": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Courtrai",
+        "Cousteau",
+        "courted",
+        "courter",
+        "courtesan"
     ],
     "improvementFor": [
-        "AF",
-        "AFB",
-        "AFC",
-        "AFDC",
-        "AFN"
-    ],
-    "testing": [
-        "A's",
-        "AIs",
-        "A",
-        "AA",
-        "AA's"
-    ],
-    "intended": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "improvement",
+        "improvement's",
+        "improvements",
+        "implementer",
+        "improvident"
     ],
     "straightforwardlyfrom": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "straightforwardly",
+        "straightforward",
+        "straightforwardness",
+        "straightforwardness's",
+        "straightforwards"
     ],
     "relevantpart": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "relevant",
+        "relevantly",
+        "elementary",
+        "elevator",
+        "elevators"
     ],
     "Hopefully": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "situation": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "hopefully",
+        "dolefully",
+        "woefully",
+        "Hopewell",
+        "balefully"
     ],
     "workOverall": [
-        "ALGOL",
-        "ALGOL's",
-        "AOL",
-        "AOL's",
-        "APO"
-    ],
-    "everything": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "concisely": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "design": [
-        "A's",
-        "AIs",
-        "A",
-        "AA",
-        "AA's"
+        "coverall",
+        "overall",
+        "coveralls",
+        "overalls",
+        "worker"
     ],
     "relatingto": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "chosen": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABCs",
-        "ABMs"
+        "relating",
+        "elating",
+        "gelatinate",
+        "rebating",
+        "reflating"
     ],
     "Including": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "especially": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "communicating": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "including",
+        "concluding",
+        "excluding",
+        "occluding",
+        "secluding"
     ],
     "Ideally": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "ideally",
+        "dally",
+        "deadly",
+        "deafly",
+        "dearly"
     ],
     "thestrengths": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "strengths",
+        "restrengthen",
+        "restrengthens",
+        "strength",
+        "strength's"
     ],
     "includeresults": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "includes",
+        "interests",
+        "Becquerel's",
+        "Cinderellas",
+        "antepenults"
     ],
     "areprobably": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "understanding": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "improbably",
+        "probably",
+        "reprovable",
+        "deplorably",
+        "improbable"
     ],
     "yourwriteup": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "allow": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "additional": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "writeup",
+        "copywriter",
+        "copywriters",
+        "overwrite",
+        "overwrites"
     ],
     "howeverthat": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "constraints": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "prohibit": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "however",
+        "hovercraft",
+        "overcoat",
+        "overeat",
+        "overheat"
     ],
     "demoOverall": [
-        "ALGOL",
-        "ALGOL's",
-        "AOL",
-        "AOL's",
-        "APO"
-    ],
-    "projects": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "submissions": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "scope": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "completed": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "within": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "coverall",
+        "overall",
+        "coveralls",
+        "deleverage",
+        "deliverable"
     ],
     "assignmentgreater": [
-        "A's",
-        "AIs",
-        "A",
-        "AA",
-        "AA's"
-    ],
-    "insight": [
-        "A's",
-        "AIs",
-        "A",
-        "AA",
-        "AA's"
+        "assignment",
+        "assignment's",
+        "assignments",
+        "disintegrate",
+        "disintegrated"
     ],
     "presentationsof": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "partly": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "depend": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "keep": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "presentations",
+        "presentation",
+        "presentation's",
+        "presentational",
+        "presentationism"
     ],
     "conciseas": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "while": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "still": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "containing": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "information": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "concise",
+        "concisely",
+        "conciser",
+        "concisest",
+        "cochleas"
     ],
     "writeups": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "too": [
-        "A",
-        "A's",
-        "AA",
-        "AAA",
-        "AAM"
+        "writeup",
+        "writer's",
+        "writers",
+        "writes",
+        "Proteus"
     ],
     "longor": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "maximally": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "longer",
+        "Bangor",
+        "Bogor",
+        "Congo",
+        "Honor"
     ],
     "pleasefeel": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "breastfeed",
+        "easeful",
+        "peaceful",
+        "plasmagel",
+        "plateful"
     ],
     "Submission": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "submission",
+        "submissions",
+        "admission",
+        "commission",
+        "demission"
     ],
     "InstructionsDeadline": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "designated": [
-        "A's",
-        "AIs",
-        "A",
-        "AA",
-        "AA's"
-    ],
-    "submitter": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "instructional",
+        "constructional",
+        "institutionalize",
+        "instructions",
+        "Internationale"
     ],
     "submitthe": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "items": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "emailing": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "submittal",
+        "submitted",
+        "submitter",
+        "submit",
+        "submits"
     ],
     "eaaroncolbyeduA": [
-        "A",
-        "AA",
-        "AAA",
-        "ABA",
-        "AMA"
+        "caracoled",
+        "macronucleus",
+        "particolored",
+        "varicolored",
+        "Clarenceux"
     ],
     "withthorough": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "instructions": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "graders": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "thorough",
+        "Attenborough",
+        "Peterborough",
+        "through",
+        "Gainsborough"
     ],
     "toindependently": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "independently",
+        "dependently",
+        "independency",
+        "independent",
+        "independent's"
     ],
     "valdiate": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "baldpate",
+        "palliate",
+        "radiate",
+        "validate",
+        "valuate"
     ],
     "ableto": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "reading": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "abet",
+        "abets",
+        "ablate",
+        "able",
+        "abler"
     ],
     "anyquestions": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "questions",
+        "acquisitions",
+        "angulations",
+        "inquisitions",
+        "question"
     ],
     "codeheavy": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Godhead",
+        "bonehead",
+        "boneheads",
+        "chevy",
+        "codename"
     ],
     "projectit": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "project",
+        "project's",
+        "projected",
+        "projectile",
+        "projecting"
     ],
     "focusedon": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "focused",
+        "focuses",
+        "Houdon",
+        "Houston",
+        "Macedon"
     ],
     "explanationsso": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "save": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "trouble": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "explanation's",
+        "explanations",
+        "explanation",
+        "exclamation's",
+        "exclamations"
     ],
     "needingto": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "switch": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "multiple": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "small": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "needing",
+        "deeding",
+        "feeding",
+        "feeding's",
+        "feedings"
     ],
     "allof": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "called": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "allot",
+        "allow",
+        "alloy",
+        "aloof",
+        "Gallo"
     ],
     "Proj": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Prof",
+        "Prog",
+        "Prot",
+        "Prov",
+        "Aron"
     ],
     "Code": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Cade",
+        "Cod",
+        "Cody",
+        "Coke",
+        "Cole"
     ],
     "Team": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "beam",
+        "ream",
+        "seam",
+        "team",
+        "Adam"
     ],
     "INITIALSjava": [
-        "ABS",
-        "AIDS",
-        "AIDS's",
-        "AL",
-        "ALGOL"
+        "Libava",
+        "Sava",
+        "java",
+        "Abuja",
+        "Abuja's"
     ],
     "orpy": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "orgy",
+        "Arp",
+        "Bray",
+        "Corby",
+        "Corey"
     ],
     "Thismay": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABCs",
-        "ABMs"
-    ],
-    "nonstandard": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABCs",
-        "ABMs"
+        "dismay",
+        "Biscay",
+        "Heisman",
+        "Tasman",
+        "Thelma"
     ],
     "filenaming": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "filename",
+        "filenames",
+        "filming",
+        "filmmaking",
+        "filtrating"
     ],
     "contextIndividual": [
-        "AFAIK",
-        "AI",
-        "AI's",
-        "AIDS",
-        "AIDS's"
-    ],
-    "descriptive": [
-        "A's",
-        "AIs",
-        "A",
-        "AA",
-        "AA's"
-    ],
-    "filename": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "contextual",
+        "superindividual",
+        "contextualized",
+        "contextualizing",
+        "individual"
     ],
     "INITIALSin": [
-        "ABS",
-        "AIDS",
-        "AIDS's",
-        "AL",
-        "ALGOL"
+        "Ain",
+        "Alvin",
+        "Amin",
+        "Arlin",
+        "IAS"
     ],
     "filenameA": [
-        "A",
-        "AA",
-        "AAA",
-        "ABA",
-        "AMA"
+        "filename",
+        "filenames",
+        "forename",
+        "forenamed",
+        "forenames"
     ],
     "perpage": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "name": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "herbage",
+        "peerage",
+        "pelage",
+        "peonage",
+        "percale"
     ],
     "fileCS": [
-        "AWACS",
-        "ABC",
-        "ABCs",
-        "ABS",
-        "AC"
+        "file",
+        "file's",
+        "filed",
+        "filer",
+        "filers"
     ],
     "Slides": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "elides",
+        "glides",
+        "slides",
+        "Alcides",
+        "Fides"
     ],
     "INITIALSpdf": [
-        "ABS",
-        "AIDS",
-        "AIDS's",
-        "AL",
-        "ALGOL"
-    ],
-    "content": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "IAS",
+        "IATA",
+        "ILS",
+        "INRI",
+        "INS"
     ],
     "asspecified": [
-        "A's",
-        "AIs",
-        "A",
-        "AA",
-        "AA's"
+        "specified",
+        "unspecified",
+        "specifier",
+        "specifies",
+        "acetified"
     ],
     "calledCS": [
-        "AWACS",
-        "ABC",
-        "ABCs",
-        "ABS",
-        "AC"
-    ],
-    "link": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "Google": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "called",
+        "balled",
+        "cabled",
+        "calked",
+        "caller"
     ],
     "Drive": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "space": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "drive",
+        "rive",
+        "Argive",
+        "Brice",
+        "Bride"
     ],
     "ifits": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "simply": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "email": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "fits",
+        "Brits",
+        "adits",
+        "baits",
+        "befits"
     ],
     "Demo": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Dem",
+        "demo",
+        "emo",
+        "memo",
+        "Ceto"
     ],
     "INITIALSmpAs": [
-        "AIDS's",
-        "ALGOL's",
-        "ANSIs",
-        "ANZUS's",
-        "ASAP"
+        "NASA",
+        "NASA's",
+        "NASCAR",
+        "NASDAQ",
+        "NVIDIA's"
     ],
     "INITIALS": [
-        "ABS",
-        "AIDS",
-        "AL",
-        "ANSI",
-        "ANSIs"
-    ],
-    "e": [
-        "A",
-        "AA",
-        "AB",
-        "AC",
-        "AD"
-    ],
-    "replaced": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "initials": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "members": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "group": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "Eg": [
-        "A",
-        "AA",
-        "AB",
-        "AC",
-        "AD"
-    ],
-    "Eric": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "Aaron": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "Stephanie": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "Taylor": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "IAS",
+        "IATA",
+        "ILS",
+        "INRI",
+        "INS"
     ],
     "filefrom": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "fiefdom",
+        "aileron",
+        "fiefdoms",
+        "filefish",
+        "filer"
     ],
     "EASTpdf": [
+        "EST",
+        "EST's",
         "ACT",
         "ACTH",
-        "ACTH's",
-        "AFT",
-        "AS"
+        "ACTH's"
     ],
     "Note": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "preferred": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "Cote",
+        "Nate",
+        "Noe",
+        "Nome",
+        "cote"
     ],
     "mpformat": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "reason": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABCs",
-        "ABMs"
-    ],
-    "cannot": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "format",
+        "reformat",
+        "doormat",
+        "forgat",
+        "formal"
     ],
     "mpvideo": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "video",
+        "aphides",
+        "apsides",
+        "divide",
+        "divided"
     ],
     "letme": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "soon": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "lemme",
+        "lethe",
+        "Bethe",
+        "Bette",
+        "Lethe"
     ],
     "possibleLateness": [
-        "ACLU's",
-        "ALGOL's",
-        "AOL's",
-        "ASL's",
-        "AWOL's"
-    ],
-    "policy": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "semester": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "considerateness",
+        "passionateness",
+        "deliberateness",
+        "oblateness",
+        "obsoleteness"
     ],
     "projectbe": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "submitted": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "deduction": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "submission": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "project",
+        "project's",
+        "projected",
+        "projectile",
+        "projective"
     ],
     "upto": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "hours": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "unto",
+        "updo",
+        "Apo",
+        "Cato",
+        "Ceto"
     ],
     "lateie": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "us": [
-        "A",
-        "A's",
-        "AA",
-        "AB",
-        "AC"
+        "Cathie",
+        "Hattie",
+        "Kathie",
+        "Katie",
+        "Mattie"
     ],
     "daybefore": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "before",
+        "afore",
+        "albacore",
+        "balefire",
+        "bayberry"
     ],
     "Exams": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "Edams",
+        "exams",
+        "Adams",
+        "Ea's",
+        "Edam"
     ],
     "deductionpleasesubmit": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "extenuating": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
-    ],
-    "circumstances": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "deductible's",
+        "deductibles",
+        "deduction's",
+        "deductions",
+        "deutoplasm"
     ],
     "consideredplease": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
+        "considerable",
+        "considerate",
+        "considerateness",
+        "considered",
+        "considerably"
     ],
     "aspossible": [
-        "A's",
-        "AA's",
-        "AB's",
-        "ABC's",
-        "ABCs"
-    ],
-    "impeding": [
-        "A",
-        "A's",
-        "AA",
-        "AA's",
-        "AAA"
+        "impossible",
+        "possible",
+        "accessible",
+        "admissible",
+        "assessable"
     ]
 }
