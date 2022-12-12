@@ -83,9 +83,5 @@ def spell_checker(t, d):
             for i in range(5):
                 output_dict[word].append(possible_corrections[i][0])
 
+
     return output_dict
-
-t = ['hell',"myn", "names", "is", "dylan"]
-d = ['hello','my',"name", "is", "dylan"]
-
-print(spell_checker(t,d))
