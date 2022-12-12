@@ -1,4 +1,5 @@
 from PyPDF2 import PdfReader
+from edit_distance_algorithms import spell_checker
 
 def get_wordlist_from_pdf(filepath):
     ''' Reads in a PDF from filepath, and returns list of words in that PDF
@@ -25,6 +26,24 @@ def get_wordlist_from_pdf(filepath):
 
     return word_list
 
+def get_dictionary(filepath):
+    ''' Reads in a txt from filepath, and returns list of words in that txt
+    ---------------------------------------
+    Returns:
+    ---------------------------------------
+        Python List. type = String, len = dictionary_length
+    '''
+    
+
+    dictionary = []
+    with open(filepath, 'r') as f:
+        line = f.readline()
+        while line:
+            dictionary.append(line.strip())
+            line = f.readline()
+
+    return dictionary
+
 
 def main():
     ''' Main method
@@ -35,10 +54,18 @@ def main():
     '''
 
     # Parses PDF into word_list of strings
-    word_list = get_wordlist_from_pdf("CS375f22_proj4_DynamicProgramming.pdf")
+    word_list = get_wordlist_from_pdf("CS375f22_proj4_DynamicProgramming.pdf")[:10]
 
-    # Prints it
-    print(word_list)
+    # Parses dictionary
+    dictionary = get_dictionary("wordlist/en_US-large.txt")[:10000]
+    #print(len(dictionary))
+    print('started')
+    # Runs the spell checker on the pdf
+    output = spell_checker(word_list, dictionary)
+
+    print(output)
+
+
 
 
 if __name__ == "__main__":
