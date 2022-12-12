@@ -70,7 +70,7 @@ def spell_checker(t, d):
     #Iterate over every word in T
     for word in t:
         #If word is not in the dictionary calculate its edit distance and append it to a list
-        if word not in d_set:
+        if word not in d_set and (word not in output_dict):
             possible_corrections = []
 
             for correct_word in d:
