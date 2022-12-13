@@ -58,19 +58,18 @@ def editDistanceIterative(S,T):
 S = "analysis"
 T = "algorithms"
 
-print(editDistanceIterative(S,T))
+#print(editDistanceIterative(S,T))
 
 #INPUT: t, a list of words in the text and d, a list that represents a dictionary
 #OUTPUT: A dictionary with all the mispelled words and 5 possible corrections
 def spell_checker(t, d):
     #Dictionary to hold the answer
     output_dict = collections.defaultdict(list)
-    d_set = set(d)
 
     #Iterate over every word in T
     for word in t:
         #If word is not in the dictionary calculate its edit distance and append it to a list
-        if word not in d_set and (word not in output_dict):
+        if word not in d:
             possible_corrections = []
 
             for correct_word in d:
@@ -83,5 +82,85 @@ def spell_checker(t, d):
             for i in range(5):
                 output_dict[word].append(possible_corrections[i][0])
 
+    return output_dict
 
+def spell_checker_recursive(t, d):
+    #Dictionary to hold the answer
+    output_dict = collections.defaultdict(list)
+
+    #Iterate over every word in T
+    for word in t:
+        #If word is not in the dictionary calculate its edit distance and append it to a list
+        if word not in d:
+            possible_corrections = []
+
+            for correct_word in d:
+                dist = editDistanceRec(word, correct_word)
+                possible_corrections.append((correct_word, dist))
+
+            #Sort the possible corrections by edit distance
+            possible_corrections = sorted(possible_corrections, key = lambda x: x[1])
+            #Assign 
+            for i in range(5):
+                output_dict[word].append(possible_corrections[i][0])
+
+    return output_dict
+
+
+#INPUT: t, a list of words in the text and d, a list that represents a dictionary
+#OUTPUT: A dictionary with all the mispelled words and 5 possible corrections
+def improved_spell_checker(t, d):
+
+    #output dictionary that the algorithm will return
+    output_dict = collections.defaultdict(list)
+
+    #for all the words in the input text
+    for word in t:
+
+        #if the word is not a correct word
+        if word not in d:
+            
+            possible_corrections = [] #the list of possible corrections for the word
+            distance_table = {} #table containing all of the correct words in the dictionary that we've checked and their edit distance
+
+            word_length = len(word) #length of word
+            length_difference = 1 #represents the difference in length between word and correct words searched in loop below
+            lower_bound = word_length - length_difference #lower bound of best-case edit distance
+            upper_bound = word_length + length_difference #upper bound of best-case edit distance
+            
+            #while we don't yet have our 5 closest word suggestions
+            while len(possible_corrections) < 5:
+                
+                #for all the correct words in the dictionary
+                for correct_word in d:
+                    
+                    #if the correct word is within length difference from word and we have not already appended it to possible corrections
+                    #and we have not yet found 5 possible corrections
+                    if ((len(correct_word) in range(lower_bound, upper_bound + 1)) and (correct_word not in possible_corrections)
+                        and (len(possible_corrections) < 5)):
+                        
+                        #if correct word and its distance not in distance table, find distance and add to distance table:
+                        if correct_word not in distance_table:
+                            dist = editDistanceIterative(word, correct_word)
+                            distance_table[correct_word] = dist
+                            
+                        #if we have already computed correct word's distance, look up the value in the table
+                        else:
+                            dist = distance_table[correct_word]
+                            
+                        #if the distance is best case given the length difference
+                        if dist <= length_difference:
+                            possible_corrections.append(correct_word)
+
+                #increment and increase best case range size
+                length_difference += 1
+                
+                #prevent negative lower bound
+                if lower_bound > 0:
+                    lower_bound = word_length - length_difference
+                upper_bound = word_length + length_difference
+                
+            #add word along with 5 possible corrections to output dictionary
+            output_dict[word].append(possible_corrections)
+            
     return output_dict
